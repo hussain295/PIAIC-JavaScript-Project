@@ -22,3 +22,4 @@ else if(65 <= age){
     console.log("The person is an elder")
 }
 }
+
